@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="83.47392272949219" height="40.09859848022461" viewBox="1.2760801315307617 -0.25 83.47392272949219 40.09859848022461">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-195,-155.25" y2="22.5" x2="5.5" x1="5.5" y1="16" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.3905877028591931" fill="#CC0000" stroke="none" d="M 4.875 18.75 C 5.392 18.75 5.861 18.96 6.2 19.3 C 6.54 19.639 6.75 20.108 6.75 20.625 C 6.75 21.142 6.54 21.611 6.2 21.95 C 5.861 22.29 5.392 22.5 4.875 22.5 C 4.358 22.5 3.889 22.29 3.55 21.95 C 3.21 21.611 3 21.142 3 20.625 C 3 20.108 3.21 19.639 3.55 19.3 C 3.889 18.96 4.358 18.75 4.875 18.75 Z " stroke-width="1"/>
+  <path id="ID0.4493961106054485" fill="#CC0000" stroke="none" d="M 8 13.9583 C 8.7935 13.9583 9.5119 14.2803 10.0324 14.8009 C 10.553 15.3215 10.875 16.0398 10.875 16.8333 C 10.875 17.6268 10.553 18.3452 10.0324 18.8658 C 9.5119 19.3863 8.7935 19.7083 8 19.7083 C 7.2065 19.7083 6.4881 19.3863 5.9676 18.8658 C 5.447 18.3452 5.125 17.6268 5.125 16.8333 C 5.125 16.0398 5.447 15.3215 5.9676 14.8009 C 6.4881 14.2803 7.2065 13.9583 8 13.9583 Z " stroke-width="0.7666666507720947"/>
+  <path id="ID0.8517079264856875" fill="url(#grad_1-,0,0,1,-195,-155.25)" stroke="url(#grad_2)" stroke-width="2" d="M 5.5 16 L 53.25 16 L 53.25 22.5 L 5.5 22.5 L 5.5 16 Z "/>
+  <g id="ID0.7631263164803386">
+    <text id="ID0.9744727602228522" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.688042 0 0 0.688042 2.27608 11.3359)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Grade</tspan></text>
+    <text id="ID0.9744727602228522" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.688042 0 0 0.688042 3.02608 11.3359)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Grade</tspan></text>
+  </g>
+  <path id="ID0.21585841197520494" fill="#CC0000" stroke="none" d="M 61.6882 8.2986 C 65.9024 8.2986 69.7211 10.0103 72.4863 12.7755 C 75.2516 15.5407 76.9632 19.3594 76.9632 23.5736 C 76.9632 27.7877 75.2516 31.6065 72.4863 34.3717 C 69.7211 37.1369 65.9024 38.8486 61.6882 38.8486 C 57.4741 38.8486 53.6553 37.1369 50.8901 34.3717 C 48.1249 31.6065 46.4132 27.7877 46.4132 23.5736 C 46.4132 19.3594 48.1249 15.5407 50.8901 12.7755 C 53.6553 10.0103 57.4741 8.2986 61.6882 8.2986 Z " stroke-width="0.8728572130203247"/>
+  <g id="ID0.6023043445311487">
+    <text id="ID0.32901171408593655" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.909502 -0.237369 0.246065 0.87736 44.6808 9.64318)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">A+</tspan></text>
+    <text id="ID0.32901171408593655" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.909502 -0.237369 0.246065 0.87736 45.7308 9.49318)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">A+</tspan></text>
+  </g>
+  <path id="ID0.6187548553571105" fill="#CC0000" stroke="none" d="M 53.5 0.75 C 54.397 0.75 55.209 1.114 55.797 1.703 C 56.386 2.291 56.75 3.103 56.75 4 C 56.75 4.897 56.386 5.709 55.797 6.297 C 55.209 6.886 54.397 7.25 53.5 7.25 C 52.603 7.25 51.791 6.886 51.203 6.297 C 50.614 5.709 50.25 4.897 50.25 4 C 50.25 3.103 50.614 2.291 51.203 1.703 C 51.791 1.114 52.603 0.75 53.5 0.75 Z " stroke-width="1"/>
+  <path id="ID0.0172060439363122" fill="#CC0000" stroke="none" d="M 70.2333 1.2667 C 70.6467 1.2667 71.0227 1.4347 71.2933 1.7067 C 71.5653 1.9773 71.7333 2.3533 71.7333 2.7667 C 71.7333 3.18 71.5653 3.556 71.2933 3.8267 C 71.0227 4.0987 70.6467 4.2667 70.2333 4.2667 C 69.82 4.2667 69.444 4.0987 69.1733 3.8267 C 68.9013 3.556 68.7333 3.18 68.7333 2.7667 C 68.7333 2.3533 68.9013 1.9773 69.1733 1.7067 C 69.444 1.4347 69.82 1.2667 70.2333 1.2667 Z " stroke-width="1.3333333730697632"/>
+  <path id="ID0.18946402054280043" fill="#CC0000" stroke="none" d="M 82.25 14.25 C 82.664 14.25 83.039 14.418 83.31 14.69 C 83.582 14.961 83.75 15.336 83.75 15.75 C 83.75 16.164 83.582 16.539 83.31 16.81 C 83.039 17.082 82.664 17.25 82.25 17.25 C 81.836 17.25 81.461 17.082 81.19 16.81 C 80.918 16.539 80.75 16.164 80.75 15.75 C 80.75 15.336 80.918 14.961 81.19 14.69 C 81.461 14.418 81.836 14.25 82.25 14.25 Z " stroke-width="1"/>
+  <path id="ID0.6612098817713559" fill="#CC0000" stroke="none" d="M 52.375 33 C 52.961 33 53.493 33.238 53.877 33.623 C 54.262 34.007 54.5 34.539 54.5 35.125 C 54.5 35.711 54.262 36.243 53.877 36.627 C 53.493 37.012 52.961 37.25 52.375 37.25 C 51.789 37.25 51.257 37.012 50.873 36.627 C 50.488 36.243 50.25 35.711 50.25 35.125 C 50.25 34.539 50.488 34.007 50.873 33.623 C 51.257 33.238 51.789 33 52.375 33 Z " stroke-width="1"/>
+</svg>

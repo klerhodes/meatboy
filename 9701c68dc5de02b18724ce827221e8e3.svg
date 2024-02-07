@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="81.22386169433594" height="29.968299865722656" viewBox="1.2760801315307617 -1 81.22386169433594 29.968299865722656">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-195,-166" y2="14.75" x2="25.25" x1="25.25" y1="7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.21440052473917603" fill="url(#grad_1-,0,0,1,-195,-166)" stroke="url(#grad_2)" stroke-width="2" d="M 25.25 7 L 57.5 7 L 57.5 14.75 L 25.25 14.75 L 25.25 7 Z "/>
+  <path id="ID0.989881148096174" fill="#CC0000" stroke="none" d="M 62.0266 0.3183 C 65.841 0.3183 69.2974 1.8676 71.7999 4.37 C 74.3023 6.8725 75.8516 10.3289 75.8516 14.1433 C 75.8516 17.9576 74.3023 21.4141 71.7999 23.9166 C 69.2974 26.419 65.841 27.9683 62.0266 27.9683 C 58.2123 27.9683 54.7558 26.419 52.2534 23.9166 C 49.7509 21.4141 48.2016 17.9576 48.2016 14.1433 C 48.2016 10.3289 49.7509 6.8725 52.2534 4.37 C 54.7558 1.8676 58.2123 0.3183 62.0266 0.3183 Z " stroke-width="0.8991869688034058"/>
+  <g id="ID0.6023043445311487">
+    <text id="ID0.32901171408593655" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.12155 -0.168796 0.303434 0.623901 40.2828 4.09071)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">A+</tspan></text>
+    <text id="ID0.32901171408593655" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(1.12155 -0.168796 0.303434 0.623901 41.5828 3.94071)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">A+</tspan></text>
+  </g>
+  <g id="ID0.7631263164803386">
+    <text id="ID0.9744727602228522" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.688042 0 0 0.688042 2.27608 1.33588)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Grade</tspan></text>
+    <text id="ID0.9744727602228522" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.688042 0 0 0.688042 3.02608 1.33588)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Grade</tspan></text>
+  </g>
+  <path id="ID0.7923971125856042" fill="#CC0000" stroke="none" d="M 56.125 0.25 C 56.987 0.25 57.768 0.6 58.334 1.166 C 58.9 1.732 59.25 2.513 59.25 3.375 C 59.25 4.237 58.9 5.018 58.334 5.584 C 57.768 6.15 56.987 6.5 56.125 6.5 C 55.263 6.5 54.482 6.15 53.916 5.584 C 53.35 5.018 53 4.237 53 3.375 C 53 2.513 53.35 1.732 53.916 1.166 C 54.482 0.6 55.263 0.25 56.125 0.25 Z " stroke-width="1"/>
+  <path id="ID0.3287795283831656" fill="#CC0000" stroke="none" d="M 53.875 21.5 C 54.53 21.5 55.124 21.766 55.554 22.196 C 55.984 22.626 56.25 23.22 56.25 23.875 C 56.25 24.53 55.984 25.124 55.554 25.554 C 55.124 25.984 54.53 26.25 53.875 26.25 C 53.22 26.25 52.626 25.984 52.196 25.554 C 51.766 25.124 51.5 24.53 51.5 23.875 C 51.5 23.22 51.766 22.626 52.196 22.196 C 52.626 21.766 53.22 21.5 53.875 21.5 Z " stroke-width="1"/>
+  <path id="ID0.8897283761762083" fill="#CC0000" stroke="none" d="M 67.25 0 C 67.595 0 67.907 0.14 68.134 0.366 C 68.36 0.593 68.5 0.905 68.5 1.25 C 68.5 1.595 68.36 1.907 68.134 2.134 C 67.907 2.36 67.595 2.5 67.25 2.5 C 66.905 2.5 66.593 2.36 66.366 2.134 C 66.14 1.907 66 1.595 66 1.25 C 66 0.905 66.14 0.593 66.366 0.366 C 66.593 0.14 66.905 0 67.25 0 Z " stroke-width="1"/>
+  <path id="ID0.670201969332993" fill="#CC0000" stroke="none" d="M 75.25 8 C 75.595 8 75.907 8.14 76.134 8.366 C 76.36 8.593 76.5 8.905 76.5 9.25 C 76.5 9.595 76.36 9.907 76.134 10.134 C 75.907 10.36 75.595 10.5 75.25 10.5 C 74.905 10.5 74.593 10.36 74.366 10.134 C 74.14 9.907 74 9.595 74 9.25 C 74 8.905 74.14 8.593 74.366 8.366 C 74.593 8.14 74.905 8 75.25 8 Z " stroke-width="1"/>
+</svg>

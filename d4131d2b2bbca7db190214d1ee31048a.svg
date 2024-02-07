@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="78.84268188476562" height="29.403230667114258" viewBox="1.2760801315307617 -0.7714847922325134 78.84268188476562 29.403230667114258">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="grad_2" y2="1" x2="0">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-195,-164" y2="15.25" x2="45.25" x1="45.25" y1="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CC0000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#CC0000" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <path id="ID0.20644283201545477" fill="url(#grad_1-,0,0,1,-195,-164)" stroke="url(#grad_2)" stroke-width="2" d="M 45.25 12 L 56.75 12 L 56.75 15.25 L 45.25 15.25 L 45.25 12 Z "/>
+  <path id="ID0.02187646459788084" fill="#CC0000" stroke="none" d="M 59.1099 10.7118 C 60.5652 10.7118 61.884 11.3032 62.839 12.2577 C 63.7935 13.2127 64.3849 14.5315 64.3849 15.9868 C 64.3849 17.4422 63.7935 18.7609 62.839 19.716 C 61.884 20.6705 60.5652 21.2618 59.1099 21.2618 C 57.6545 21.2618 56.3358 20.6705 55.3807 19.716 C 54.4262 18.7609 53.8349 17.4422 53.8349 15.9868 C 53.8349 14.5315 54.4262 13.2127 55.3807 12.2577 C 56.3358 11.3032 57.6545 10.7118 59.1099 10.7118 Z " stroke-width="0.5552631616592407"/>
+  <g id="ID0.6023043445311487">
+    <text id="ID0.32901171408593655" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.98994 -0.195873 0.267827 0.723985 42.8264 4.5863)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">A+</tspan></text>
+    <text id="ID0.32901171408593655" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.98994 -0.195873 0.267827 0.723985 43.9764 4.4363)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">A+</tspan></text>
+  </g>
+  <g id="ID0.7631263164803386">
+    <text id="ID0.9744727602228522" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.688042 0 0 0.688042 2.27608 3.33588)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Grade</tspan></text>
+    <text id="ID0.9744727602228522" fill="#000000" text-anchor="start" font-family="Sans Serif" font-size="22" transform="matrix(0.688042 0 0 0.688042 3.02608 3.33588)" stroke-width="1" alignment-baseline="text-before-edge" xml:space="preserve"><tspan x="0" style="white-space: pre" dy="1.13em">Grade</tspan></text>
+  </g>
+</svg>
